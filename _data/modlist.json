@@ -3,7 +3,7 @@
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "1.2.0.0"
+    "version": "1.3.0.0"
   },
   {
     "author": "Samboy063",
@@ -34,6 +34,12 @@
     "name": "Mod Manager",
     "steamId": "1507748539",
     "version": "3.8.1038"
+  },
+  {
+    "author": "bradson",
+    "name": "HD Pawn Rendering",
+    "steamId": "2538746878",
+    "version": "1.0.0"
   },
   {
     "author": "YAYO",
@@ -129,7 +135,55 @@
     "author": "Torann",
     "name": "A RimWorld of Magic",
     "steamId": "1201382956",
-    "version": "2.5.7.1"
+    "version": "2.5.7.2"
+  },
+  {
+    "author": "NetzachSloth",
+    "name": "A Rimworld of Magic - Adventurer Class",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "NetzachSloth",
+    "name": "A RimWorld of Magic - Alhoon Class",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "NetzachSloth",
+    "name": "A RimWorld of Magic - Wight Class",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "NetzachSloth",
+    "name": "A RimWorld of Magic - Dread Lich",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "NetzachSloth",
+    "name": "A RimWorld of Magic - Psionic Lich",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "NetzachSloth",
+    "name": "A RimWorld of Magic - Blackguard Class",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "NetzachSloth",
+    "name": "A RimWorld of Magic - Azarinth Healer Class",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "22",
+    "name": "RW of Magic---Scholar",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Sarg",
@@ -375,7 +429,7 @@
     "author": "Avius and Hazzer",
     "name": "Prison Labor",
     "steamId": "1899474310",
-    "version": "0.10.8013.41829"
+    "version": "0.10.8149.194"
   },
   {
     "author": "Dubwise",
@@ -435,7 +489,7 @@
     "author": "Saakra",
     "name": "Empire",
     "steamId": "2006535182",
-    "version": "0.40.02"
+    "version": "0.40.03"
   },
   {
     "author": "zymex",
@@ -585,7 +639,7 @@
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
-    "version": "2.2.4.0"
+    "version": "2.3.2.0"
   },
   {
     "author": "avilmask",
@@ -672,6 +726,12 @@
     "version": "1.2.1.0"
   },
   {
+    "author": "Mlie",
+    "name": "Cannibal and Insect Meals",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Little White Mouse",
     "name": "LWM's Deep Storage",
     "steamId": "1617282896",
@@ -730,12 +790,6 @@
     "name": "[RH2] Rimdeed® - Pawn Recruitment",
     "steamId": "2411722784",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "VinaLx",
-    "name": "ResearchPal - Forked",
-    "steamId": "2351393394",
-    "version": "1.3.0.2"
   },
   {
     "author": "Fluffy",
@@ -1110,6 +1164,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Sarg,  erdelf,  Oskar Potocki,  Luizi and  Reann Shepard",
+    "name": "Vanilla Genetics Expanded",
+    "steamId": "2801160906",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
     "name": "Vanilla Ideology Expanded - Memes and Structures",
     "steamId": "2636329500",
@@ -1182,6 +1242,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "MightyPantherIII",
+    "name": "Survivalist Meme",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "YAYO",
     "name": "Communism Ideology",
     "steamId": null,
@@ -1202,6 +1268,24 @@
   {
     "author": "rooki1",
     "name": "Rimsenal - Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "jecrell",
+    "name": "Industrial Age - Objects and Furniture (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Chance2000w",
+    "name": "Clockwork And Steam",
+    "steamId": "1736127702",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "explodoboy",
+    "name": "Science Never Stops: Ambition of the Cosmic",
     "steamId": null,
     "version": null
   },
@@ -1428,6 +1512,12 @@
     "version": "0.0.0.0"
   },
   {
+    "author": "Holgast",
+    "name": "Brrrt",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Ratys",
     "name": "RT Fuse",
     "steamId": "728314182",
@@ -1496,6 +1586,18 @@
   {
     "author": "Oskar Potocki,  Luizi and  xrushha",
     "name": "Vanilla Weapons Expanded - Frontier",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Robotrowful",
+    "name": "Call of Duty: Zombies Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Helixien",
+    "name": "HALO: UNSC Armoury",
     "steamId": null,
     "version": null
   },
@@ -1611,7 +1713,7 @@
     "author": "Neronix17",
     "name": "[O21] Outland - Core",
     "steamId": "2755501685",
-    "version": "1.0.0.0"
+    "version": "1.0.0"
   },
   {
     "author": "Neronix17",
@@ -1654,6 +1756,42 @@
     "name": "Elders Faction",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Vanilla Expanded Team and Co.",
+    "name": "Rim-Effect: Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Vanilla Expanded Team and Co.",
+    "name": "Rim-Effect: Asari and Reapers",
+    "steamId": "2651149728",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Vanilla Expanded Team and Co.",
+    "name": "Rim-Effect: N7",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Vanilla Expanded Team and Co.",
+    "name": "Rim-Effect: Drell",
+    "steamId": "2651150217",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oracle of Thessia",
+    "name": "Rim-Effect: SRTS Shuttles",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AUTOMATIC and  Oracle of Thessia",
+    "name": "Rim-Effect: Themis Traders",
+    "steamId": "2488461271",
+    "version": "1.0.350.0854"
   },
   {
     "author": "rooki1",
@@ -1758,6 +1896,12 @@
     "version": null
   },
   {
+    "author": "Gargamiel",
+    "name": "PokéWorld",
+    "steamId": "2652029657",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "AUTOMATIC",
     "name": "Gradient Hair",
     "steamId": "1687053679",
@@ -1843,18 +1987,6 @@
   },
   {
     "author": "Yanzihko",
-    "name": "Braixen and Delphox - Fire Pokemon [1.3]",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Yanzihko",
-    "name": "Kisalfar and Fressálfar - Lost Project [1.3]",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Yanzihko",
     "name": "Lombax - Desert Warriors [1.3]",
     "steamId": null,
     "version": null
@@ -1892,8 +2024,8 @@
   {
     "author": "いのしし_3",
     "name": "Kurin, The Three Tailed Fox [Deluxe Edition]",
-    "steamId": null,
-    "version": null
+    "steamId": "2670355481",
+    "version": "1.0.0.0"
   },
   {
     "author": "Gloomylynx NukaFrog",
@@ -1932,10 +2064,94 @@
     "version": null
   },
   {
+    "author": "Dalrae",
+    "name": "Wa! Skeleton! (Continued)",
+    "steamId": "2159119022",
+    "version": "1.3.3"
+  },
+  {
+    "author": "Xen",
+    "name": "Racc Race (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Xen",
+    "name": "Ferrex Race (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rick",
+    "name": "FCP Ghouls!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Yanzihko",
+    "name": "Braixen and Delphox - Fire Pokemon [1.3]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Xen",
+    "name": "Vulpine Race Pack (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "JomoKiN",
+    "name": "[FCP] Stupid Sexy Deathclaws",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Xen and  ChJees",
+    "name": "Logann Race (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Yanzihko",
+    "name": "Sylveon - Fairy Pokemon! [1.3]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Yanzihko",
+    "name": "Kisalfar and Fressálfar - Lost Project [1.3]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Helixien and Xen",
+    "name": "Argonians of Blackmarsh (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erin and  xrushha",
+    "name": "Erin's Miqo'te",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roskii",
+    "name": "Trench Cats Renewal",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Roboslob",
     "name": "RoboFacePatch",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "YAYO",
+    "name": "Real Faction Guest",
+    "steamId": "2263021260",
+    "version": "1.0.0.0"
   },
   {
     "author": "Dylan",
@@ -1998,12 +2214,6 @@
     "version": "1.0.7393.34550"
   },
   {
-    "author": "YAYO",
-    "name": "Real Faction Guest",
-    "steamId": "2263021260",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Dubwise",
     "name": "Dubs Mint Menus",
     "steamId": "1446523594",
@@ -2019,19 +2229,37 @@
     "author": "Helixien and  Taranchuk",
     "name": "ReGrowth: Expanded World Generation (Continued)",
     "steamId": "2791768296",
-    "version": "1.3.2"
-  },
-  {
-    "author": "telardo",
-    "name": "No Laggy Bed",
-    "steamId": null,
-    "version": null
+    "version": "1.3.4"
   },
   {
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Ding On Game Loaded",
+    "steamId": "2425530959",
+    "version": "1.3.2"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Performance Analyzer",
+    "steamId": "2038874626",
+    "version": "1.0.0"
+  },
+  {
+    "author": "telardo",
+    "name": "No Laggy Bed",
+    "steamId": "2790250834",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Ghost_Rolly",
+    "name": "Rim73 - Performance and Optimisations",
+    "steamId": "2573814850",
+    "version": "1.0.0.0"
   },
   {
     "author": "hodlhodl",
@@ -2047,32 +2275,32 @@
   },
   {
     "author": "SirRandoo",
-    "name": "ToolkitUtils",
-    "steamId": "2009500580",
-    "version": "6.2.0.4"
-  },
-  {
-    "author": "SirRandoo",
     "name": "ToolkitRaids",
     "steamId": "2091359241",
     "version": "1.0.5.0"
   },
   {
-    "author": "Mlie",
-    "name": "Ding On Game Loaded",
-    "steamId": "2425530959",
-    "version": "1.3.2"
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "6.2.0.5"
   },
   {
-    "author": "Dubwise",
-    "name": "Dubs Performance Analyzer",
-    "steamId": "2038874626",
-    "version": "1.0.0"
+    "author": "swemoney",
+    "name": "Toolkit - Channel Points",
+    "steamId": "1916651243",
+    "version": "1.3.1"
   },
   {
-    "author": "Ghost_Rolly",
-    "name": "Rim73 - Performance and Optimisations",
-    "steamId": "2573814850",
+    "author": "SirRandoo",
+    "name": "ToolkitPolls",
+    "steamId": "2435838514",
+    "version": "1.1.1.6"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "TwitchToolkit - Lootboxes",
+    "steamId": "1720021578",
     "version": "1.0.0.0"
   }
 ]
